@@ -24,7 +24,7 @@ $$\theta = a + bK_a + cK_a^2 + dK_a^3$$
 
 Where a, b, c, and d, are empirical coefficients and $\theta$, is soil moisture. 
 
-Soil salinity is often represented by the bulk electrical conductivity (EC) and is important for assessing seawater intrusion and poor drainage in soils. EC is measured by TDR using the impedance or shrinkage of the reflected electrical pulse. The unit for EC is micro-Siemens per cm ($\muS/cm$)
+Soil salinity is often represented by the bulk electrical conductivity (EC) and is important for assessing seawater intrusion and poor drainage in soils. EC is measured by TDR using the impedance or shrinkage of the reflected electrical pulse. The unit for EC is micro-Siemens per cm ( $\mu S/cm$ )
 
 Many soil moisture sensors on the market make claims about accuracy and repeatability and it is difficult for most end users to validate such claims. In this study, ten True TDR sensors were tested in controlled conditions against NIST traceable standards in an attempt to reproduce the accuracy claims in the sales literature for the parameters of EC, $K_a$ and $\theta$. 
 
